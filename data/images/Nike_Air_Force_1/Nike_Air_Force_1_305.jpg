@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Human Verification</title>
+    <style>
+        body {
+            font-family: "Arial";
+        }
+    </style>
+    <script type="text/javascript">
+    window.awsWafCookieDomainList = [];
+    window.gokuProps = {
+"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AFKfbs6hDeTFHWAoaV8EBAuAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2mRRYvu88W5YzKFMAgEQgDt1lvxPhM0TEe1XeYvYMzuaDhfaegHII6tkoweBPeNa+bfnBBE8nsiUdRx8TnS0IM3V98dhMNFwEXVipw==",
+          "iv":"CuGZiQDTjQAAOhD/",
+          "context":"ajhnLrJUMmwt67W6cSrBIYvGfDG1YCaJM9tz6362LjJTbtLlS0O8L+Fo1WLqeph6nKZvrZnxlNXHuspOE0dkVXuyaUE/SLSyU3eOUhbsE1j18Km4IvL5Am7dcZFxFoUVHyzwUtiV3xhuUPHXVPsZmJmaJ4UkSF9O9XgnC6yZSSd6l8vwNBhgPhXcV6xqKOge/XnrnUaRiPAd3y3gCrUHliyiFzf/yT/FWEQeFrQO9/UADwVeysZoMM+d8xzxOX16t5zUjs1yorhtR61r3YnbYferjdOaC49b8UjuDybZj+dGv8uCx07Z0CczgEKQiXAPswEygF5ozLTOgxYNkyWKBlqzH67gBjCYyoQ="
+};
+    </script>
+    <script src="https://1955e647486d.7d431460.us-east-1.token.awswaf.com/1955e647486d/5ebe2c6465e7/6b0a47e435ea/challenge.js"></script>
+    <script src="https://1955e647486d.7d431460.us-east-1.captcha.awswaf.com/1955e647486d/5ebe2c6465e7/6b0a47e435ea/captcha.js"></script>
+</head>
+<body>
+    <div id="captcha-container"></div>
+    <script type="text/javascript">
+        AwsWafIntegration.saveReferrer();
+        window.addEventListener("load", function() {
+          const container = document.querySelector("#captcha-container");
+          CaptchaScript.renderCaptcha(container, async (voucher) => {
+              await ChallengeScript.submitCaptcha(voucher);
+              window.location.reload(true);
+          }
+      );
+    });
+    </script>
+    <noscript>
+        <h1>JavaScript is disabled</h1>
+        In order to continue, you need to verify that you're not a robot by solving a CAPTCHA puzzle.
+         The CAPTCHA puzzle requires JavaScript. Enable JavaScript and then reload the page.
+    </noscript>
+</body>
+</html>

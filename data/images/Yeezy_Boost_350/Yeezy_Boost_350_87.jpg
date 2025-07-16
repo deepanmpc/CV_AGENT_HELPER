@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<meta name='robots' content='noindex, follow' />
+<meta name="viewport" content="width=device-width" />
+<meta name="generator" content="WordPress 6.5.5" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v24.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>ページが見つかりませんでした - Yakkun StreetFashion Media</title>
+	<meta property="og:locale" content="ja_JP" />
+	<meta property="og:title" content="ページが見つかりませんでした - Yakkun StreetFashion Media" />
+	<meta property="og:site_name" content="Yakkun StreetFashion Media" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://yakkun-fashion.jp/#website","url":"https://yakkun-fashion.jp/","name":"Yakkun StreetFashion Media","description":"Sneakers、Fashion、Entertainment ..","publisher":{"@id":"https://yakkun-fashion.jp/#/schema/person/4909f1a785562f850c03f9c56b26e6a7"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://yakkun-fashion.jp/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"ja"},{"@type":["Person","Organization"],"@id":"https://yakkun-fashion.jp/#/schema/person/4909f1a785562f850c03f9c56b26e6a7","name":"Yakkun","image":{"@type":"ImageObject","inLanguage":"ja","@id":"https://yakkun-fashion.jp/#/schema/person/image/","url":"https://yakkun-fashion.jp/wp-content/uploads/2024/05/FBC66F9B-0719-44CB-B195-8EA66DBA4F62.jpeg","contentUrl":"https://yakkun-fashion.jp/wp-content/uploads/2024/05/FBC66F9B-0719-44CB-B195-8EA66DBA4F62.jpeg","width":337,"height":337,"caption":"Yakkun"},"logo":{"@id":"https://yakkun-fashion.jp/#/schema/person/image/"},"sameAs":["https://x.com/@yasuakifujii"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel="alternate" type="application/rss+xml" title="Yakkun StreetFashion Media &raquo; フィード" href="https://yakkun-fashion.jp/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Yakkun StreetFashion Media &raquo; コメントフィード" href="https://yakkun-fashion.jp/comments/feed/" />
+<script type="text/javascript" id="wpp-js" src="https://yakkun-fashion.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.3" data-sampling="1" data-sampling-rate="100" data-api-url="https://yakkun-fashion.jp/wp-json/wordpress-popular-posts" data-post-id="0" data-token="d6e1206864" data-lang="0" data-debug="0"></script>
+<link rel="pingback" href="https://yakkun-fashion.jp/xmlrpc.php" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.6.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-V7S0CZ7L1X"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '9.6.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/yakkun-fashion.jp\/wp-content\/uploads\/2023\/05\/z-HQ4540-standard-top_portrait_view-CUUAUN4WHT.jpg\/"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-V7S0CZ7L1X',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-V7S0CZ7L1X', {"forceSSL":"true","link_attribution":"true","page_path":'\/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/yakkun-fashion.jp\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://yakkun-fashion.jp/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://yakkun-fashion.jp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://yakkun-fashion.jp/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=7.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='omega-style-css' href='https://yakkun-fashion.jp/wp-content/themes/lifestyle/style.css?ver=6.5.5' type='text/css' media='all' />
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<link rel='stylesheet' id='simple-social-icons-font-css' href='https://yakkun-fashion.jp/wp-content/plugins/simple-social-icons/css/style.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css' href='https://yakkun-fashion.jp/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.css?ver=6.5.5' type='text/css' media='screen' />
+<link rel='stylesheet' id='addtoany-css' href='https://yakkun-fashion.jp/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+/* <![CDATA[ */
+jQuery(document).ready(function() {
+	jQuery(".5fb8fe2da754395a5675dd61923338b4").click(function() {
+		jQuery.post(
+			"https://yakkun-fashion.jp/wp-admin/admin-ajax.php", {
+				"action": "quick_adsense_onpost_ad_click",
+				"quick_adsense_onpost_ad_index": jQuery(this).attr("data-index"),
+				"quick_adsense_nonce": "79483a48b9",
+			}, function(response) { }
+		);
+	});
+});
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-content/themes/lifestyle/js/tinynav.js?ver=6.5.5" id="tinynav-js"></script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.6.1" id="monsterinsights-frontend-script-js" async="async" data-wp-strategy="async"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/yakkun-fashion.jp","hash_tracking":"false","v4_id":"G-V7S0CZ7L1X"};/* ]]> */
+</script>
+<script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "共有",
+	Save: "ブックマーク",
+	Subscribe: "購読",
+	Email: "メール",
+	Bookmark: "ブックマーク",
+	ShowAll: "すべて表示する",
+	ShowLess: "小さく表示する",
+	FindServices: "サービスを探す",
+	FindAnyServiceToAddTo: "追加するサービスを今すぐ探す",
+	PoweredBy: "Powered by",
+	ShareViaEmail: "メールでシェアする",
+	SubscribeViaEmail: "メールで購読する",
+	BookmarkInYourBrowser: "ブラウザにブックマーク",
+	BookmarkInstructions: "このページをブックマークするには、 Ctrl+D または \u2318+D を押下。",
+	AddToYourFavorites: "お気に入りに追加",
+	SendFromWebOrProgram: "任意のメールアドレスまたはメールプログラムから送信",
+	EmailProgram: "メールプログラム",
+	More: "詳細&#8230;",
+	ThanksForSharing: "共有ありがとうございます !",
+	ThanksForFollowing: "フォローありがとうございます !"
+};
+
+a2a_config.callbacks.push({ready:function(){document.querySelectorAll(".a2a_s_undefined").forEach(function(emptyIcon){emptyIcon.parentElement.style.display="none";})}});
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" defer src="https://yakkun-fashion.jp/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<link rel="https://api.w.org/" href="https://yakkun-fashion.jp/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://yakkun-fashion.jp/xmlrpc.php?rsd" />
+            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-block-placeholder,.wpp-shortcode-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            	<!--[if lt IE 9]>
+	<script src="https://yakkun-fashion.jp/wp-content/themes/omega/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+<style type="text/css" id="custom-colors-css">h1.site-title a, .site-description, .entry-meta { color: #232323; } .tinynav, input[type="button"], input[type="reset"], input[type="submit"] { background-color: #232323; } .site-inner .entry-meta a, .site-inner .entry-content a, .site-inner .sidebar a { color: #858585; }</style>
+
+<style type="text/css" id="custom-css"></style>
+<link rel="icon" href="https://yakkun-fashion.jp/wp-content/uploads/2024/05/cropped-yakkun-icon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://yakkun-fashion.jp/wp-content/uploads/2024/05/cropped-yakkun-icon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://yakkun-fashion.jp/wp-content/uploads/2024/05/cropped-yakkun-icon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://yakkun-fashion.jp/wp-content/uploads/2024/05/cropped-yakkun-icon-270x270.jpg" />
+</head>
+<body class="wordpress ltr child-theme y2025 m07 d16 h13 wednesday logged-out custom-header error-404 custom-colors" dir="ltr" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div class="site-container">
+	<header id="header" class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><h2 class="site-title" itemprop="headline"><a href="https://yakkun-fashion.jp" title="Yakkun StreetFashion Media" rel="home">Yakkun StreetFashion Media</a></h2><h3 class="site-description"><span>Sneakers、Fashion、Entertainment ..</span></h3></div></div></header><!-- .site-header --><nav id="navigation" class="nav-primary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">	
+	<div class="wrap"><a href="#" id="menu-icon" class="menu-icon"><span></span></a><ul id="menu-menu" class="menu omega-nav-menu menu-primary"><li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home first menu-item-5"><a href="https://yakkun-fashion.jp/">HOME</a></li>
+<li id="menu-item-82899" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82899"><a href="https://yakkun-fashion.jp/category/sneaker/">SNEAKER</a></li>
+<li id="menu-item-2176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2176"><a href="https://yakkun-fashion.jp/category/fashion/">FASHION</a></li>
+<li id="menu-item-82926" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82926"><a href="https://yakkun-fashion.jp/category/spot/">SPOT</a></li>
+<li id="menu-item-175162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-175162"><a href="https://yakkun-fashion.jp/category/entertainment/">ENTERTAINMENT</a></li>
+<li id="menu-item-164445" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-164445"><a href="https://yakkun-fashion.jp/category/figure/">FIGURE</a></li>
+<li id="menu-item-18532" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18532"><a href="https://yakkun-fashion.jp/category/launches/">LAUNCHES</a></li>
+<li id="menu-item-6333" class="menu-item menu-item-type-custom menu-item-object-custom last menu-item-6333"><a href="https://yakkun-fashion.jp/contact/">CONTACT</a></li>
+</ul></div></nav><!-- .nav-primary -->	<div class="banner">
+		<div class="wrap">
+					</div><!-- .wrap -->
+  	</div><!-- .banner -->
+	<div class="site-inner">
+		<div class="wrap">	<main class="content"  role="main">
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">このページは見つかりません。</h1>
+				</header><!-- .page-header -->
+				<div class="page-content">
+					<p>ここには何も見当たらないようです。サイトに<a href="https://yakkun-fashion.jp">ホームページ</a>に戻ってお探しのものが見つかるかどうか試してみてください。または、以下のフォームから検索してみることもできます。</p>
+					<form role="search" method="get" class="search-form" action="https://yakkun-fashion.jp/">	
+	<input type="search" class="search-field" placeholder="検索 ..." value="" name="s" title="検索:">	<input type="submit" class="search-submit" value="検索">
+</form>				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+	</main><!-- .content -->
+<!--WPFC_FOOTER_START-->			
+	<aside id="sidebar" class="sidebar sidebar-primary widget-area" role="complementary" itemscope itemtype="http://schema.org/WPSideBar">	
+				<section id="block-12" class="widget widget-1 even widget-first widget_block"><div class="widget-wrap"><p>スポンサーリンク</p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3311865582864380"
+     crossorigin="anonymous"></script>
+<!-- 20240123-ウィジェット-メインサイドバー -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3311865582864380"
+     data-ad-slot="7914912754"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></section><section id="search-2" class="widget widget-2 odd widget_search"><div class="widget-wrap"><h4 class="widget-title">SITE SEARCH</h4><form role="search" method="get" class="search-form" action="https://yakkun-fashion.jp/">	
+	<input type="search" class="search-field" placeholder="検索 ..." value="" name="s" title="検索:">	<input type="submit" class="search-submit" value="検索">
+</form></div></section>
+		<section id="recent-posts-3" class="widget widget-3 even widget_recent_entries"><div class="widget-wrap">
+		<h4 class="widget-title">NEW</h4>
+		<ul>
+											<li>
+					<a href="https://yakkun-fashion.jp/highlife-snoop-dogg-snoop-tee/">HIGHLIFE より Snoop Dogg の Snoop Tee が発売</a>
+											<span class="post-date">2025-07-16</span>
+									</li>
+											<li>
+					<a href="https://yakkun-fashion.jp/shohei-ohtani-los-angeles-dodgers-2025-mlb-all-star/">【世界限定125体】ドジャース 大谷翔平 の MLBオールスターゲーム2025出場を記念したプレミアム・ボブルヘッドが発売</a>
+											<span class="post-date">2025-07-16</span>
+									</li>
+											<li>
+					<a href="https://yakkun-fashion.jp/new-era-2025-mlb-all-star-game/">New era® より MLBオールスターゲーム2025の開催記念キャップが発売</a>
+											<span class="post-date">2025-07-16</span>
+									</li>
+											<li>
+					<a href="https://yakkun-fashion.jp/carhartt-wip-hartts-football-t-shirt-i034625/">Carhartt WIP の Hartt’s Football T-shirt が再販</a>
+											<span class="post-date">2025-07-16</span>
+									</li>
+											<li>
+					<a href="https://yakkun-fashion.jp/nirvana-flower-sniffin-tee/">NIRVANA の Flower Sniffin Tee が発売</a>
+											<span class="post-date">2025-07-16</span>
+									</li>
+											<li>
+					<a href="https://yakkun-fashion.jp/fragment-design-x-union-x-nike-air-jordan-1-on-feet/">fragment design × UNION × NIKE AIR JORDAN 1 が2026年2月5日(木)発売予定</a>
+											<span class="post-date">2025-07-16</span>
+									</li>
+											<li>
+					<a href="https://yakkun-fashion.jp/wtaps-hellweek-tee-17aw/">WTAPS の Hellweek Tee が発売</a>
+											<span class="post-date">2025-07-15</span>
+									</li>
+											<li>
+					<a href="https://yakkun-fashion.jp/nike-rakuten-campaign-july-2025/">NIKE 公式楽天ストアにて24時間限定のMAX60%OFF クーポンが配布</a>
+											<span class="post-date">2025-07-15</span>
+									</li>
+					</ul>
+
+		</div></section><section id="block-2" class="widget widget-4 odd widget_block"><div class="widget-wrap"><div class="popular-posts"><h2>RANKING</h2><ul class="wpp-list wpp-list-with-thumbnails">
+<li>
+<a href="https://yakkun-fashion.jp/levis-nike-air-max-95/" target="_self"><img src="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/246963-featured-75x75.webp" srcset="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/246963-featured-75x75.webp, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/246963-featured-75x75@1.5x.webp 1.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/246963-featured-75x75@2x.webp 2x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/246963-featured-75x75@2.5x.webp 2.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/246963-featured-75x75@3x.webp 3x" width="75" height="75" alt="Levi’s x NIKE AIR MAX 95 7月10日(木)発売" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async" loading="lazy"></a>
+<a href="https://yakkun-fashion.jp/levis-nike-air-max-95/" class="wpp-post-title" target="_self">Levi’s x NIKE AIR MAX 95 が公式オンラインにて再販</a>
+ <span class="wpp-meta post-stats"><span class="wpp-date">2025/07/10 に投稿された</span></span>
+</li>
+<li>
+<a href="https://yakkun-fashion.jp/nike-air-jordan-1-retro-high-og-midnight-navy-sale/" target="_self"><img src="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/294131-featured-75x75.jpg" srcset="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/294131-featured-75x75.jpg, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/294131-featured-75x75@1.5x.jpg 1.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/294131-featured-75x75@2x.jpg 2x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/294131-featured-75x75@2.5x.jpg 2.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/294131-featured-75x75@3x.jpg 3x" width="75" height="75" alt="NIKE AIR JORDAN 1 RETRO HIGH OG “Midnight Navy” が特別価格で発売" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async" loading="lazy"></a>
+<a href="https://yakkun-fashion.jp/nike-air-jordan-1-retro-high-og-midnight-navy-sale/" class="wpp-post-title" target="_self">NIKE AIR JORDAN 1 RETRO HIGH OG “Midnight Navy” の30％OFF セールが開催</a>
+ <span class="wpp-meta post-stats"><span class="wpp-date">2025/07/13 に投稿された</span></span>
+</li>
+<li>
+<a href="https://yakkun-fashion.jp/travis-scott-x-fragment-design-x-nike-air-jordan-1-low-release-date-changed/" target="_self"><img src="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/288685-featured-75x75.png" srcset="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/288685-featured-75x75.png, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/288685-featured-75x75@1.5x.png 1.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/288685-featured-75x75@2x.png 2x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/288685-featured-75x75@2.5x.png 2.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/288685-featured-75x75@3x.png 3x" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async" loading="lazy"></a>
+<a href="https://yakkun-fashion.jp/travis-scott-x-fragment-design-x-nike-air-jordan-1-low-release-date-changed/" class="wpp-post-title" target="_self">Travis Scott × fragment design × NIKE AIR JORDAN 1 LOW が9月20日(土)発売予定</a>
+ <span class="wpp-meta post-stats"><span class="wpp-date">2025/07/13 に投稿された</span></span>
+</li>
+<li>
+<a href="https://yakkun-fashion.jp/new-balance-m990gl6-sale/" target="_self"><img src="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296020-featured-75x75.png" srcset="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296020-featured-75x75.png, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296020-featured-75x75@1.5x.png 1.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296020-featured-75x75@2x.png 2x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296020-featured-75x75@2.5x.png 2.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296020-featured-75x75@3x.png 3x" width="75" height="75" alt="New Balance 990v6 “Gray” の27％OFF セールが開催" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async" loading="lazy"></a>
+<a href="https://yakkun-fashion.jp/new-balance-m990gl6-sale/" class="wpp-post-title" target="_self">New Balance 990v6 “Gray” の27％OFF セールが開催</a>
+ <span class="wpp-meta post-stats"><span class="wpp-date">2025/07/14 に投稿された</span></span>
+</li>
+<li>
+<a href="https://yakkun-fashion.jp/saint-mxxxxxx-2025fw-2nd-drop/" target="_self"><img src="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296312-featured-75x75.jpg" srcset="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296312-featured-75x75.jpg, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296312-featured-75x75@1.5x.jpg 1.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296312-featured-75x75@2x.jpg 2x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296312-featured-75x75@2.5x.jpg 2.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296312-featured-75x75@3x.jpg 3x" width="75" height="75" alt="©SAINT M×××××× 2025年秋冬コレクション 2nd DROP の先行予約が開始" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async" loading="lazy"></a>
+<a href="https://yakkun-fashion.jp/saint-mxxxxxx-2025fw-2nd-drop/" class="wpp-post-title" target="_self">©SAINT M×××××× 2025年秋冬コレクション 2nd DROP の先行予約が開始</a>
+ <span class="wpp-meta post-stats"><span class="wpp-date">2025/07/14 に投稿された</span></span>
+</li>
+<li>
+<a href="https://yakkun-fashion.jp/fragment-design-x-union-x-nike-air-jordan-1-on-feet/" target="_self"><img src="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/284290-featured-75x75.jpg" srcset="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/284290-featured-75x75.jpg, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/284290-featured-75x75@1.5x.jpg 1.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/284290-featured-75x75@2x.jpg 2x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/284290-featured-75x75@2.5x.jpg 2.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/284290-featured-75x75@3x.jpg 3x" width="75" height="75" alt="fragment design × UNION × NIKE AIR JORDAN 1 が2026年2月5日(木)発売予定" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async" loading="lazy"></a>
+<a href="https://yakkun-fashion.jp/fragment-design-x-union-x-nike-air-jordan-1-on-feet/" class="wpp-post-title" target="_self">fragment design × UNION × NIKE AIR JORDAN 1 が2026年2月5日(木)発売予定</a>
+ <span class="wpp-meta post-stats"><span class="wpp-date">2025/07/16 に投稿された</span></span>
+</li>
+<li>
+<a href="https://yakkun-fashion.jp/vans-skate-loafer-vn0a5dxubka/" target="_self"><img src="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/295828-featured-75x75.jpg" srcset="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/295828-featured-75x75.jpg, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/295828-featured-75x75@1.5x.jpg 1.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/295828-featured-75x75@2x.jpg 2x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/295828-featured-75x75@2.5x.jpg 2.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/295828-featured-75x75@3x.jpg 3x" width="75" height="75" alt="VANS Skate Loafer が発売" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async" loading="lazy"></a>
+<a href="https://yakkun-fashion.jp/vans-skate-loafer-vn0a5dxubka/" class="wpp-post-title" target="_self">【国内取扱店舗を追加】VANS Skate Loafer</a>
+ <span class="wpp-meta post-stats"><span class="wpp-date">2025/07/14 に投稿された</span></span>
+</li>
+<li>
+<a href="https://yakkun-fashion.jp/levis-silvertab-loose-fit-medium-indigo-sale/" target="_self"><img src="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296219-featured-75x75.webp" srcset="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296219-featured-75x75.webp, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296219-featured-75x75@1.5x.webp 1.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296219-featured-75x75@2x.webp 2x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296219-featured-75x75@2.5x.webp 2.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296219-featured-75x75@3x.webp 3x" width="75" height="75" alt="Levi’s® SILVERTAB™ Loose Fit Medium indigo の50%OFF セールが開催" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async" loading="lazy"></a>
+<a href="https://yakkun-fashion.jp/levis-silvertab-loose-fit-medium-indigo-sale/" class="wpp-post-title" target="_self">Levi’s® SILVERTAB™ の Loose Fit Medium indigo が6,600円で発売</a>
+ <span class="wpp-meta post-stats"><span class="wpp-date">2025/07/13 に投稿された</span></span>
+</li>
+<li>
+<a href="https://yakkun-fashion.jp/stussy-australia-stock-low-pro-cap/" target="_self"><img src="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296276-featured-75x75.jpg" srcset="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296276-featured-75x75.jpg, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296276-featured-75x75@1.5x.jpg 1.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296276-featured-75x75@2x.jpg 2x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296276-featured-75x75@2.5x.jpg 2.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/296276-featured-75x75@3x.jpg 3x" width="75" height="75" alt="Stussy Australia の Stock Low Pro Cap が発売" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async" loading="lazy"></a>
+<a href="https://yakkun-fashion.jp/stussy-australia-stock-low-pro-cap/" class="wpp-post-title" target="_self">Stussy Australia の Stock Low Pro Cap が発売</a>
+ <span class="wpp-meta post-stats"><span class="wpp-date">2025/07/14 に投稿された</span></span>
+</li>
+<li>
+<a href="https://yakkun-fashion.jp/salomon-xt-6-gore-tex-safari-black-release-date-20240127/" target="_self"><img src="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/223860-featured-75x75.jpg" srcset="https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/223860-featured-75x75.jpg, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/223860-featured-75x75@1.5x.jpg 1.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/223860-featured-75x75@2x.jpg 2x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/223860-featured-75x75@2.5x.jpg 2.5x, https://yakkun-fashion.jp/wp-content/uploads/wordpress-popular-posts/223860-featured-75x75@3x.jpg 3x" width="75" height="75" alt="SALOMON XT-6 GORE-TEX® “Black” の20%OFF セールが開催" class="wpp-thumbnail wpp_featured wpp_cached_thumb" decoding="async" loading="lazy"></a>
+<a href="https://yakkun-fashion.jp/salomon-xt-6-gore-tex-safari-black-release-date-20240127/" class="wpp-post-title" target="_self">SALOMON XT-6 GORE-TEX® “Black” の20%OFF セールが開催</a>
+ <span class="wpp-meta post-stats"><span class="wpp-date">2025/07/13 に投稿された</span></span>
+</li>
+</ul></div></div></section><section id="categories-2" class="widget widget-5 even widget_categories"><div class="widget-wrap"><h4 class="widget-title">CATEGORY</h4>
+			<ul>
+					<li class="cat-item cat-item-1234"><a href="https://yakkun-fashion.jp/category/entertainment/">ENTERTAINMENT</a> (202)
+</li>
+	<li class="cat-item cat-item-23"><a href="https://yakkun-fashion.jp/category/fashion/">FASHION</a> (10,471)
+</li>
+	<li class="cat-item cat-item-1210"><a href="https://yakkun-fashion.jp/category/figure/">FIGURE</a> (78)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://yakkun-fashion.jp/category/info/">INFO</a> (2,063)
+</li>
+	<li class="cat-item cat-item-416"><a href="https://yakkun-fashion.jp/category/launches/">LAUNCHES</a> (6,167)
+</li>
+	<li class="cat-item cat-item-798"><a href="https://yakkun-fashion.jp/category/sneaker/">SNEAKER</a> (5,410)
+</li>
+	<li class="cat-item cat-item-801"><a href="https://yakkun-fashion.jp/category/spot/">SPOT</a> (251)
+</li>
+			</ul>
+
+			</div></section><section id="archives-5" class="widget widget-6 odd widget_archive"><div class="widget-wrap"><h4 class="widget-title">ARCHIVE</h4>
+			<ul>
+					<li><a href='https://yakkun-fashion.jp/2025/07/'>2025年7月</a>&nbsp;(150)</li>
+	<li><a href='https://yakkun-fashion.jp/2025/06/'>2025年6月</a>&nbsp;(300)</li>
+	<li><a href='https://yakkun-fashion.jp/2025/05/'>2025年5月</a>&nbsp;(289)</li>
+	<li><a href='https://yakkun-fashion.jp/2025/04/'>2025年4月</a>&nbsp;(307)</li>
+	<li><a href='https://yakkun-fashion.jp/2025/03/'>2025年3月</a>&nbsp;(283)</li>
+	<li><a href='https://yakkun-fashion.jp/2025/02/'>2025年2月</a>&nbsp;(173)</li>
+	<li><a href='https://yakkun-fashion.jp/2025/01/'>2025年1月</a>&nbsp;(214)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/12/'>2024年12月</a>&nbsp;(175)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/11/'>2024年11月</a>&nbsp;(170)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/10/'>2024年10月</a>&nbsp;(308)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/09/'>2024年9月</a>&nbsp;(211)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/08/'>2024年8月</a>&nbsp;(181)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/07/'>2024年7月</a>&nbsp;(249)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/06/'>2024年6月</a>&nbsp;(206)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/05/'>2024年5月</a>&nbsp;(196)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/04/'>2024年4月</a>&nbsp;(236)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/03/'>2024年3月</a>&nbsp;(221)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/02/'>2024年2月</a>&nbsp;(262)</li>
+	<li><a href='https://yakkun-fashion.jp/2024/01/'>2024年1月</a>&nbsp;(169)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/12/'>2023年12月</a>&nbsp;(173)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/11/'>2023年11月</a>&nbsp;(191)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/10/'>2023年10月</a>&nbsp;(126)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/09/'>2023年9月</a>&nbsp;(111)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/08/'>2023年8月</a>&nbsp;(182)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/07/'>2023年7月</a>&nbsp;(202)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/06/'>2023年6月</a>&nbsp;(232)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/05/'>2023年5月</a>&nbsp;(204)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/04/'>2023年4月</a>&nbsp;(126)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/03/'>2023年3月</a>&nbsp;(147)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/02/'>2023年2月</a>&nbsp;(138)</li>
+	<li><a href='https://yakkun-fashion.jp/2023/01/'>2023年1月</a>&nbsp;(151)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/12/'>2022年12月</a>&nbsp;(118)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/11/'>2022年11月</a>&nbsp;(174)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/10/'>2022年10月</a>&nbsp;(208)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/09/'>2022年9月</a>&nbsp;(200)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/08/'>2022年8月</a>&nbsp;(180)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/07/'>2022年7月</a>&nbsp;(160)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/06/'>2022年6月</a>&nbsp;(178)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/05/'>2022年5月</a>&nbsp;(187)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/04/'>2022年4月</a>&nbsp;(280)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/03/'>2022年3月</a>&nbsp;(253)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/02/'>2022年2月</a>&nbsp;(151)</li>
+	<li><a href='https://yakkun-fashion.jp/2022/01/'>2022年1月</a>&nbsp;(134)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/12/'>2021年12月</a>&nbsp;(154)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/11/'>2021年11月</a>&nbsp;(154)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/10/'>2021年10月</a>&nbsp;(163)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/09/'>2021年9月</a>&nbsp;(168)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/08/'>2021年8月</a>&nbsp;(102)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/07/'>2021年7月</a>&nbsp;(114)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/06/'>2021年6月</a>&nbsp;(181)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/05/'>2021年5月</a>&nbsp;(195)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/04/'>2021年4月</a>&nbsp;(138)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/03/'>2021年3月</a>&nbsp;(148)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/02/'>2021年2月</a>&nbsp;(115)</li>
+	<li><a href='https://yakkun-fashion.jp/2021/01/'>2021年1月</a>&nbsp;(142)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/12/'>2020年12月</a>&nbsp;(115)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/11/'>2020年11月</a>&nbsp;(147)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/10/'>2020年10月</a>&nbsp;(115)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/09/'>2020年9月</a>&nbsp;(112)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/08/'>2020年8月</a>&nbsp;(101)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/07/'>2020年7月</a>&nbsp;(109)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/06/'>2020年6月</a>&nbsp;(121)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/05/'>2020年5月</a>&nbsp;(98)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/04/'>2020年4月</a>&nbsp;(117)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/03/'>2020年3月</a>&nbsp;(104)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/02/'>2020年2月</a>&nbsp;(88)</li>
+	<li><a href='https://yakkun-fashion.jp/2020/01/'>2020年1月</a>&nbsp;(98)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/12/'>2019年12月</a>&nbsp;(98)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/11/'>2019年11月</a>&nbsp;(91)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/10/'>2019年10月</a>&nbsp;(93)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/09/'>2019年9月</a>&nbsp;(106)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/08/'>2019年8月</a>&nbsp;(133)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/07/'>2019年7月</a>&nbsp;(128)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/06/'>2019年6月</a>&nbsp;(111)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/05/'>2019年5月</a>&nbsp;(111)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/04/'>2019年4月</a>&nbsp;(168)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/03/'>2019年3月</a>&nbsp;(156)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/02/'>2019年2月</a>&nbsp;(133)</li>
+	<li><a href='https://yakkun-fashion.jp/2019/01/'>2019年1月</a>&nbsp;(129)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/12/'>2018年12月</a>&nbsp;(102)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/11/'>2018年11月</a>&nbsp;(126)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/10/'>2018年10月</a>&nbsp;(136)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/09/'>2018年9月</a>&nbsp;(153)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/08/'>2018年8月</a>&nbsp;(125)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/07/'>2018年7月</a>&nbsp;(93)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/06/'>2018年6月</a>&nbsp;(138)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/05/'>2018年5月</a>&nbsp;(104)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/04/'>2018年4月</a>&nbsp;(94)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/03/'>2018年3月</a>&nbsp;(88)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/02/'>2018年2月</a>&nbsp;(100)</li>
+	<li><a href='https://yakkun-fashion.jp/2018/01/'>2018年1月</a>&nbsp;(93)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/12/'>2017年12月</a>&nbsp;(96)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/11/'>2017年11月</a>&nbsp;(63)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/10/'>2017年10月</a>&nbsp;(96)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/09/'>2017年9月</a>&nbsp;(81)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/08/'>2017年8月</a>&nbsp;(99)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/07/'>2017年7月</a>&nbsp;(107)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/06/'>2017年6月</a>&nbsp;(87)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/05/'>2017年5月</a>&nbsp;(79)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/04/'>2017年4月</a>&nbsp;(154)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/03/'>2017年3月</a>&nbsp;(253)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/02/'>2017年2月</a>&nbsp;(212)</li>
+	<li><a href='https://yakkun-fashion.jp/2017/01/'>2017年1月</a>&nbsp;(46)</li>
+	<li><a href='https://yakkun-fashion.jp/2016/12/'>2016年12月</a>&nbsp;(30)</li>
+	<li><a href='https://yakkun-fashion.jp/2016/11/'>2016年11月</a>&nbsp;(16)</li>
+	<li><a href='https://yakkun-fashion.jp/2016/02/'>2016年2月</a>&nbsp;(2)</li>
+			</ul>
+
+			</div></section><section id="block-14" class="widget widget-7 even widget-last widget_block"><div class="widget-wrap">
+<h2 class="wp-block-heading"></h2>
+</div></section>		  	</aside><!-- .sidebar -->
+</div>	</div><!-- .site-inner -->
+	<div class="footer-widgets"><div class="wrap col-3"><div class="footer-widgets-1 widget-area"><section id="simple-social-icons-7" class="widget widget-1 even widget-first simple-social-icons"><div class="widget-wrap"><h4 class="widget-title">FOLLOW ME</h4><ul class="alignleft"><li class="ssi-instagram"><a href="https://www.instagram.com/yasuakifujii/" target="_blank" rel="noopener noreferrer"><svg role="img" class="social-instagram" aria-labelledby="social-instagram-7"><title id="social-instagram-7">Instagram</title><use xlink:href="https://yakkun-fashion.jp/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/yasuakifujii" target="_blank" rel="noopener noreferrer"><svg role="img" class="social-twitter" aria-labelledby="social-twitter-7"><title id="social-twitter-7">Twitter</title><use xlink:href="https://yakkun-fashion.jp/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li></ul></div></section><section id="text-8" class="widget widget-2 odd widget-last widget_text"><div class="widget-wrap"><h4 class="widget-title">CONTACT</h4>			<div class="textwidget"><a href="https://yakkun-fashion.jp/contact/">プレスリリース・情報掲載などはコチラから。</a></div>
+		</div></section></div><div class="footer-widgets-2 widget-area"><section id="text-9" class="widget widget-1 even widget-first widget_text"><div class="widget-wrap"><h4 class="widget-title">ABOUT me</h4>			<div class="textwidget"><a href="https://yakkun-fashion.jp/about-me/">yakkun-fashion.jpって？</a></div>
+		</div></section><section id="search-4" class="widget widget-2 odd widget-last widget_search"><div class="widget-wrap"><h4 class="widget-title">SITE SEARCH</h4><form role="search" method="get" class="search-form" action="https://yakkun-fashion.jp/">	
+	<input type="search" class="search-field" placeholder="検索 ..." value="" name="s" title="検索:">	<input type="submit" class="search-submit" value="検索">
+</form></div></section></div><div class="footer-widgets-3 widget-area"><section id="categories-8" class="widget widget-1 even widget-first widget_categories"><div class="widget-wrap"><h4 class="widget-title">CATEGORY</h4>
+			<ul>
+					<li class="cat-item cat-item-1234"><a href="https://yakkun-fashion.jp/category/entertainment/">ENTERTAINMENT</a> (202)
+</li>
+	<li class="cat-item cat-item-23"><a href="https://yakkun-fashion.jp/category/fashion/">FASHION</a> (10,471)
+</li>
+	<li class="cat-item cat-item-1210"><a href="https://yakkun-fashion.jp/category/figure/">FIGURE</a> (78)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://yakkun-fashion.jp/category/info/">INFO</a> (2,063)
+</li>
+	<li class="cat-item cat-item-416"><a href="https://yakkun-fashion.jp/category/launches/">LAUNCHES</a> (6,167)
+</li>
+	<li class="cat-item cat-item-798"><a href="https://yakkun-fashion.jp/category/sneaker/">SNEAKER</a> (5,410)
+</li>
+	<li class="cat-item cat-item-801"><a href="https://yakkun-fashion.jp/category/spot/">SPOT</a> (251)
+</li>
+			</ul>
+
+			</div></section></div></div></div><footer id="footer" class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="wrap"><div class="footer-content footer-insert"><p class="copyright">Copyright &#169; 2025 Yakkun StreetFashion Media.</p>
+
+<p class="credit"><a class="child-link" href="http://themehit.com/lifestyle-minimalist-wordpress-theme" title="Lifestyle WordPress テーマ">Lifestyle</a> WordPress Theme by themehit.com</p></div></div></footer><!-- .site-footer --></div><!-- .site-container -->
+<style type="text/css" media="screen">#simple-social-icons-7 ul li a, #simple-social-icons-7 ul li a:hover, #simple-social-icons-7 ul li a:focus { background-color: #999999 !important; border-radius: 3px; color: #ffffff !important; border: 0px #ffffff solid !important; font-size: 18px; padding: 9px; }  #simple-social-icons-7 ul li a:hover, #simple-social-icons-7 ul li a:focus { background-color: #666666 !important; border-color: #ffffff !important; color: #ffffff !important; }  #simple-social-icons-7 ul li a:focus { outline: 1px dotted #666666 !important; }</style><script type="text/javascript" src="https://yakkun-fashion.jp/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.8" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/yakkun-fashion.jp\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2024-07-17 08:16:16+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"ja_JP"},"This contact form is placed in the wrong place.":["\u3053\u306e\u30b3\u30f3\u30bf\u30af\u30c8\u30d5\u30a9\u30fc\u30e0\u306f\u9593\u9055\u3063\u305f\u4f4d\u7f6e\u306b\u7f6e\u304b\u308c\u3066\u3044\u307e\u3059\u3002"],"Error:":["\u30a8\u30e9\u30fc:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.8" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-content/plugins/easy-fancybox/vendor/purify.min.js?ver=6.5.5" id="fancybox-purify-js"></script>
+<script type="text/javascript" id="jquery-fancybox-js-extra">
+/* <![CDATA[ */
+var efb_i18n = {"close":"Close","next":"Next","prev":"Previous","startSlideshow":"Start slideshow","toggleSize":"Toggle size"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.js?ver=6.5.5" id="jquery-fancybox-js"></script>
+<script type="text/javascript" id="jquery-fancybox-js-after">
+/* <![CDATA[ */
+var fb_timeout, fb_opts={'autoScale':true,'showCloseButton':true,'margin':20,'pixelRatio':'false','centerOnScroll':false,'enableEscapeButton':true,'overlayShow':true,'hideOnOverlayClick':true,'minVpHeight':320,'disableCoreLightbox':'true','enableBlockControls':'true','fancybox_openBlockControls':'true' };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery([".nolightbox","a.wp-block-file__button","a.pin-it-button","a[href*='pinterest.com\/pin\/create']","a[href*='facebook.com\/share']","a[href*='twitter.com\/share']"].join(',')).addClass('nofancybox');
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+/* IMG */
+						var unlinkedImageBlocks=jQuery(".wp-block-image > img:not(.nofancybox,figure.nofancybox>img)");
+						unlinkedImageBlocks.wrap(function() {
+							var href = jQuery( this ).attr( "src" );
+							return "<a href='" + href + "'></a>";
+						});
+var fb_IMG_select=jQuery('a[href*=".jpg" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".jpg" i]:not(.nofancybox),a[href*=".jpeg" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".jpeg" i]:not(.nofancybox),a[href*=".png" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".png" i]:not(.nofancybox),a[href*=".webp" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".webp" i]:not(.nofancybox)');
+fb_IMG_select.addClass('fancybox image');
+var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery,.wp-block-jetpack-tiled-gallery,.ngg-galleryoverview,.ngg-imagebrowser,.nextgen_pro_blog_gallery,.nextgen_pro_film,.nextgen_pro_horizontal_filmstrip,.ngg-pro-masonry-wrapper,.ngg-pro-mosaic-container,.nextgen_pro_sidescroll,.nextgen_pro_slideshow,.nextgen_pro_thumbnail_grid,.tiled-gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,.fancybox>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'transition':'elastic','transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false,'mouseWheel':'true'}))});
+};};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-content/plugins/easy-fancybox/vendor/jquery.easing.min.js?ver=1.4.1" id="jquery-easing-js"></script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-content/plugins/easy-fancybox/vendor/jquery.mousewheel.min.js?ver=3.1.13" id="jquery-mousewheel-js"></script>
+<script type="text/javascript" src="https://yakkun-fashion.jp/wp-content/plugins/throws-spam-away/js/tsa_params.min.js?ver=3.7.1" id="throws-spam-away-script-js"></script>
+</body>
+</html>
