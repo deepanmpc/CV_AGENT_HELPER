@@ -1,0 +1,15 @@
+names:
+- Adidas_Ultraboost
+- Asics_Gel-Kayano
+- Converse_Chuck_Taylor
+- Jordan_1_Retro_High_OG
+- New_Balance_990
+- Nike_Air_Force_1
+- Puma_RS-X
+- Reebok_Classic_Leather
+- Vans_Old_Skool
+- Yeezy_Boost_350
+nc: 10
+path: /content/CV_AGENT_HELPER/custom_data
+train: images/train
+val: images/val
